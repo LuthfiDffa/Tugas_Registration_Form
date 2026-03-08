@@ -70,33 +70,14 @@ Disini pengguna bisa memilih pendaftar mana yang mau dihapus dengan meng klik ic
 
 <img width="350" height="218" alt="image" src="https://github.com/user-attachments/assets/fab1465a-ccd2-4442-ac31-53a91252b47d" />
 
-
-Dapat dilihat pada gambar, gambar pertama menunjukkan beberapa daftar produk yang telah ditambahkan ke keranjang, lalu gambar kedua menunjukkan  produk sudah tidak ada lagi di keranjang karena dikurangi hingga 0 atau dihapus, lalu ketika sudah tidak ada produk dikeranjang maka akan ada tulisan "your cart is empty" pada halaman.
-
----
-
-### 6. Clear all - Empty cart message
-
-<img width="266" height="59" alt="image" src="https://github.com/user-attachments/assets/d3a11139-ba3c-473d-ae98-5f6ef81fe164" />
-
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/e37bb9a2-edd1-49d9-bc69-fdff54ee2366" />
-
-Dapat dilihat, jika kita menekan ikon sampah atau menghapus produk, akan ada notifikasi pesan yang akan menampilkan nama produk yang dihapus dan pada halaman keranjang akan ada tulisan "your cart is empty".
-
----
-
-### 7. Navigate back - Badge still correct
-
-**Daftar Produk yang Ada di Keranjang**
-
-<img width="1919" height="534" alt="image" src="https://github.com/user-attachments/assets/509bbcb5-71b3-4d9d-9b41-d46a9d5345a5" />
+Setelah meng klik icon sampah akan menampilkan pesan yang memastikan pengguna apakah benar-benar ingin menghapus data peserta. Jika iya klik "hapus" dan jika tidak jadi menghapus klik "batal".
 
 
-**Kembali ke Halaman Awal**
+**Removed**
 
-<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/f75b61f4-ded8-4154-ac72-72d363f7ec7a" />
+<img width="1919" height="311" alt="image" src="https://github.com/user-attachments/assets/3c424fac-98c6-4717-b236-3264c3e32943" />
 
-
+Bisa terlihat peserta dengan nama Kaneki Kanjuro telah terhapus dari Daftar Peserta.
 **Kembali keranjang & mengecek apakah produk yang sudah dtambahkan tadi masih tetap ada**
 
 <img width="1919" height="546" alt="image" src="https://github.com/user-attachments/assets/f624ec1c-b7f6-407f-8d0d-879f551eceb9" />
