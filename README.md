@@ -1,4 +1,4 @@
-# 🛒  Shooping Cart (PART 5)
+# 🛒  Registration Form (PART 5)
 
 **Nama: Luthfi Daffa Purbaya**
 
@@ -10,12 +10,13 @@
 
 
 
-Berikut merupakan tampilan awal dari projek atau aplikasi shopping cart ini. Ditampilan awal kita bisa melihat daftar produk dijual dengan berbagai informasi seperti nama barang, harga, dan tombol untuk menambahkan produk ke dalam keranjang. Lalu juga ada tombol keranjang untuk melihat  produk yang telah ditambahkan ke dalam keranjang.
+Berikut merupakan tampilan utama dari aplikasi Registration Form yang digunakan untuk melakukan pendaftaran event. Pada halaman ini pengguna dapat mengisi beberapa data seperti nama lengkap, email, password, jenis kelamin, program studi, dan tanggal lahir. Setiap field yang memiliki tanda bintang (*) menandakan bahwa data tersebut wajib diisi. Setelah semua data diisi, pengguna dapat menekan tombol Daftar Sekarang untuk mengirimkan data pendaftaran atau tombol Reset Form untuk menghapus semua data yang telah dimasukkan.
 
 ---
 ### 1. Isi form → Submit → Lihat success dialog
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/9daf9b14-c5ad-4b57-8c02-f5b06d9601b4" />
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/efb2c324-7c4d-48f7-a80d-af78af6f4411" />
 
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/7d399bb9-8f10-448c-93f6-68474ce72881" />
 
 Gambar diatas menunjukkan telah menambahkan 3 produk ke dalam keranjang. Kita bisa mengecek produknya dengan menekan tombol keranjang dibagian kanan atas. Selain bisa melihat daftar produk yang sudah ditmbahkan kita juga bisa melihat total harga produk, menambah/mengurangi jumlah produk, serta menghapus produk dari keranjang.
 
