@@ -18,62 +18,57 @@ Berikut merupakan tampilan utama dari aplikasi Registration Form yang digunakan 
 
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/7d399bb9-8f10-448c-93f6-68474ce72881" />
 
-Gambar diatas menunjukkan telah menambahkan 3 produk ke dalam keranjang. Kita bisa mengecek produknya dengan menekan tombol keranjang dibagian kanan atas. Selain bisa melihat daftar produk yang sudah ditmbahkan kita juga bisa melihat total harga produk, menambah/mengurangi jumlah produk, serta menghapus produk dari keranjang.
+Gambar diatas menunjukkan tampilan ketika pengguna telah mengisi seluruh form pendaftaran dan menekan tombol Daftar Sekarang. Setelah data berhasil dikirim, sistem akan menampilkan dialog notifikasi registrasi berhasil di tengah layar. Dialog ini menampilkan pesan bahwa proses pendaftaran telah berhasil dilakukan. Di dalamnya juga tersedia dua pilihan tombol yaitu Daftar Lagi untuk melakukan pendaftaran baru dan Lihat Daftar untuk melihat data pendaftaran yang telah tersimpan.
 
 ---
 
-### 2. Add different products
+### 2. Klik "Lihat Daftar" → Muncul di list
 
-**Sebelum menambahkan produk lain**
+**klik lihat daftar**
 
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/9daf9b14-c5ad-4b57-8c02-f5b06d9601b4" />
+<img width="384" height="288" alt="image" src="https://github.com/user-attachments/assets/12adc86d-34ec-4e38-993b-7e75a1f738e5" />
 
-**Sesudah menambahkan produk lain**
+**Daftar Peserta**
 
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/a7f655c8-53dc-427b-a224-eca6962474da" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/95d3a017-a963-45a8-920e-27ea99199107" />
 
+Setelah melakukan registrasi dan menekan tombol "lihat daftar" maka kita akan dialihkan ke halaman yang menampilkan data pengguna yang telah berhasil melakukan pendaftaran. Pada halaman ini ditampilkan informasi peserta seperti nama, program studi, dan email. Selain itu terdapat juga ikon hapus di sisi kanan yang dapat digunakan untuk menghapus data peserta dari daftar. Di bagian kanan bawah terdapat tombol tambah (+) yang dapat digunakan untuk kembali ke halaman form pendaftaran dan menambahkan peserta baru.
 
 ---
-### 3. Increase quantity
+### 3. Tap item → Detail page 
 
-**Sebelum menambahkan jumlah produk dari keranjang**
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/a7f655c8-53dc-427b-a224-eca6962474da" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/3bad525f-1d21-4814-bba7-532109f694f8" />
 
-**Sesudah menambahkan jumlah produk dari keranjang**
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/5e2aeb84-81a8-4731-9868-b3ad5bc96dbb" />
-
-
-Dapat dilihat pada gambar, menunjukkan adanya perubahan jumlah produk dari keranjang beserta harganya. Pada gambar sebelum, dapat dilihat produk yang dijumlahkan hanya 1 di keranjang dengan total 23.500.000
-Lalu pada gambar sesudah menambahkan jumlah produk terupdate, harga nya berubah menjadi 660.000.000. Ini menunjukkan bahwa produk bisa ditambahkan dan jumlah total harga dari produk yang ada di keranjang juga ikut berubah.
+Berikut merupakan tampilan halaman detail peserta yang muncul ketika pengguna menekan salah satu data pada halaman daftar peserta. Pada halaman ini ditampilkan informasi lengkap dari peserta yang telah melakukan pendaftaran, seperti nama, email, jenis kelamin, program studi, serta tanggal lahir. Halaman ini bertujuan untuk menampilkan detail data peserta secara lebih lengkap sehingga pengguna dapat melihat informasi pendaftaran dengan lebih jelas.
 
 ---
 
-### 4. Decrease to 1
+### 4. Badge di AppBar update
 
-**Sebelum dikurangi**
+**Saat Jumlah Peserta Masih 1**
 
-<img width="1912" height="141" alt="image" src="https://github.com/user-attachments/assets/a07c6565-93be-455e-9bf2-47ceb5de416e" />
+<img width="1919" height="73" alt="image" src="https://github.com/user-attachments/assets/644f164a-e81d-44b1-847d-227ab62d0a9b" />
 
+**Saat Jumlah Peserta Bertambah**
 
-**Sesudah dikurangi**
+<img width="1916" height="71" alt="image" src="https://github.com/user-attachments/assets/15805732-5cc8-43f9-bfa0-3431ff1dc12d" />
 
-<img width="1915" height="150" alt="image" src="https://github.com/user-attachments/assets/8c3d80c7-2ad3-44be-841d-ce76366a75df" />
+<img width="1919" height="391" alt="image" src="https://github.com/user-attachments/assets/f4753b27-ee6e-4580-ab14-0341a68f97c5" />
 
-
-Dapat dilihat pada gambar, menunjukkan pengurangan jumlah produk Tablet Pro yang awal jumlahnya 3, dikurangi menjadi 1.
-
+Dapat dilihat pada gambar, tampilan badge pada AppBar yang akan otomatis diperbarui sesuai dengan jumlah peserta yang telah terdaftar di dalam aplikasi. Badge ini ditampilkan pada ikon peserta di bagian kanan atas layar. Saat jumlah peserta masih sedikit, angka pada badge akan menampilkan jumlah peserta yang ada. Ketika peserta baru ditambahkan, angka pada badge akan otomatis bertambah sehingga pengguna dapat dengan mudah melihat jumlah total peserta yang sudah terdaftar.
 ---
 
-### 5. Decrease to 0
+### 5. Delete → Confirm → Removed
 
-**Sebelum dihapus**
+**Delete**
 
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/8f3996e9-d924-426e-a10a-cf08e5651fe9" />
+<img width="1919" height="282" alt="image" src="https://github.com/user-attachments/assets/681e492a-04d9-46cc-93ee-07f793eb1a69" />
 
+Disini pengguna bisa memilih pendaftar mana yang mau dihapus dengan meng klik icon sampah
 
-**Sesudah dihapus**
+**Confirm**
 
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/fb903970-1750-445e-a320-179233fb06ad" />
+<img width="350" height="218" alt="image" src="https://github.com/user-attachments/assets/fab1465a-ccd2-4442-ac31-53a91252b47d" />
 
 
 Dapat dilihat pada gambar, gambar pertama menunjukkan beberapa daftar produk yang telah ditambahkan ke keranjang, lalu gambar kedua menunjukkan  produk sudah tidak ada lagi di keranjang karena dikurangi hingga 0 atau dihapus, lalu ketika sudah tidak ada produk dikeranjang maka akan ada tulisan "your cart is empty" pada halaman.
